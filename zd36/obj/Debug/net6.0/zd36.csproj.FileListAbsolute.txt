@@ -1,0 +1,15 @@
+/Users/evgenij/Desktop/dz5/zd36/bin/Debug/net6.0/zd36
+/Users/evgenij/Desktop/dz5/zd36/bin/Debug/net6.0/zd36.deps.json
+/Users/evgenij/Desktop/dz5/zd36/bin/Debug/net6.0/zd36.runtimeconfig.json
+/Users/evgenij/Desktop/dz5/zd36/bin/Debug/net6.0/zd36.dll
+/Users/evgenij/Desktop/dz5/zd36/bin/Debug/net6.0/zd36.pdb
+/Users/evgenij/Desktop/dz5/zd36/obj/Debug/net6.0/zd36.csproj.AssemblyReference.cache
+/Users/evgenij/Desktop/dz5/zd36/obj/Debug/net6.0/zd36.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evgenij/Desktop/dz5/zd36/obj/Debug/net6.0/zd36.AssemblyInfoInputs.cache
+/Users/evgenij/Desktop/dz5/zd36/obj/Debug/net6.0/zd36.AssemblyInfo.cs
+/Users/evgenij/Desktop/dz5/zd36/obj/Debug/net6.0/zd36.csproj.CoreCompileInputs.cache
+/Users/evgenij/Desktop/dz5/zd36/obj/Debug/net6.0/zd36.dll
+/Users/evgenij/Desktop/dz5/zd36/obj/Debug/net6.0/refint/zd36.dll
+/Users/evgenij/Desktop/dz5/zd36/obj/Debug/net6.0/zd36.pdb
+/Users/evgenij/Desktop/dz5/zd36/obj/Debug/net6.0/zd36.genruntimeconfig.cache
+/Users/evgenij/Desktop/dz5/zd36/obj/Debug/net6.0/ref/zd36.dll
